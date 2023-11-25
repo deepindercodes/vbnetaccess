@@ -1,5 +1,5 @@
 # vbnetaccess
-CRUD functionality using VB.NET and MS access Database (.MDB file)
+CRUD functionality using ASP.NET (VB.NET) and MS access Database (.MDB file)
 
 => This ASP.NET project is coded using VB.NET programming language. The database used is MS Access (.MDB) file.
 
